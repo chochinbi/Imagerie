@@ -1,0 +1,18 @@
+style.css
+h1{ ;
+}
+body{
+background-image: url('imagerie/octet.gif')
+}
+h1{
+line-height: 100%;
+font-size: 14vw;
+font-family: monaco, sans-serif;
+text-align: left;
+color: #F0FFF0;
+}
+h2{
+font-size: 5vw;
+font-family: monaco, sans-serif;
+color: #F0FFF0;
+}
